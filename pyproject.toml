@@ -42,7 +42,7 @@ packages = ["src/sheetforge"]
 [dependency-groups]
 dev = [
     "mypy>=1.19",
-    "pytest>=9.0",
+    "pytest>=9.0.3",
     "pytest-cov>=6.0",
     "ruff>=0.11",
 ]
